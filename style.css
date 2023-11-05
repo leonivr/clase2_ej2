@@ -1,0 +1,14 @@
+body{
+    background-color: grey
+}
+label{
+    font-weight: bold;
+}
+#resultado,#container{
+    display: flexbox;
+    margin-top: 20px;
+    
+}
+button{
+    margin-left: 10px;
+}
